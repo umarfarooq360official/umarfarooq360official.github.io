@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://aspirecompass.org/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -15,10 +15,12 @@
 
   <url>
     <loc>https://aspirecompass.org/countries/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/countries/australia/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -33,6 +35,7 @@
 
   <url>
     <loc>https://aspirecompass.org/countries/germany/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -42,14 +45,17 @@
 
   <url>
     <loc>https://aspirecompass.org/countries/japan/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/countries/united-kingdom/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/countries/united-states/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -67,18 +73,22 @@
 
   <url>
     <loc>https://aspirecompass.org/entry-level-jobs/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/exchange-programs/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/fellowships/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/graduate-programs/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -87,6 +97,7 @@
 
   <url>
     <loc>https://aspirecompass.org/guides/internship-application/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -96,6 +107,7 @@
 
   <url>
     <loc>https://aspirecompass.org/guides/motivation-letter/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -104,6 +116,7 @@
 
   <url>
     <loc>https://aspirecompass.org/guides/recommendation-letter/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -116,6 +129,7 @@
 
   <url>
     <loc>https://aspirecompass.org/guides/scholarship-interview/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -146,6 +160,7 @@
 
   <url>
     <loc>https://aspirecompass.org/matcher/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 
   <url>
@@ -215,5 +230,20 @@
 
   <url>
     <loc>https://aspirecompass.org/terms/</loc>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/tools/</loc>
+    <lastmod>2026-09-21</lastmod>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/tools/gpa-cgpa-calculator/</loc>
+    <lastmod>2026-09-21</lastmod>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/tools/ielts-band-calculator/</loc>
+    <lastmod>2026-09-21</lastmod>
   </url>
 </urlset>
