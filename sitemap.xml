@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://aspirecompass.org/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -15,7 +15,7 @@
 
   <url>
     <loc>https://aspirecompass.org/countries/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -30,7 +30,7 @@
 
   <url>
     <loc>https://aspirecompass.org/countries/europe/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -41,6 +41,11 @@
   <url>
     <loc>https://aspirecompass.org/countries/hungary/</loc>
     <lastmod>2026-09-20</lastmod>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/countries/italy/</loc>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -60,7 +65,7 @@
 
   <url>
     <loc>https://aspirecompass.org/deadline-calendar/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -101,6 +106,16 @@
   </url>
 
   <url>
+    <loc>https://aspirecompass.org/guides/italy-dsu-scholarships/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/guides/italy-universities-tuition-fees/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+
+  <url>
     <loc>https://aspirecompass.org/guides/mext-application-routes/</loc>
     <lastmod>2026-09-20</lastmod>
   </url>
@@ -135,16 +150,21 @@
 
   <url>
     <loc>https://aspirecompass.org/guides/scholarships-for-pakistani-students/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/guides/scholarships-without-ielts/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/guides/statement-of-purpose/</loc>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/guides/study-in-italy-admission-english-requirements/</loc>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -179,7 +199,7 @@
 
   <url>
     <loc>https://aspirecompass.org/scholarships/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
@@ -205,11 +225,17 @@
 
   <url>
     <loc>https://aspirecompass.org/scholarships/fully-funded/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+
+  <url>
+    <loc>https://aspirecompass.org/scholarships/italy/</loc>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
     <loc>https://aspirecompass.org/scholarships/kaust/</loc>
+    <lastmod>2026-09-29</lastmod>
   </url>
 
   <url>
